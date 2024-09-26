@@ -3,3 +3,4 @@
 ### Participantes
 
 - Paulo Igor
+- Roger Bentes
